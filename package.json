@@ -1,0 +1,22 @@
+{
+  "name": "berkeley-theme",
+  "displayName": "Berkeley Theme",
+  "description": "A clean and modern light theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "ocat",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Berkeley",
+        "uiTheme": "vs",
+        "path": "./themes/berkeley-color-theme.json"
+      }
+    ]
+  }
+}
