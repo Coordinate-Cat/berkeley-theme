@@ -1,5 +1,7 @@
 # berkeley-theme
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ocat.berkeley-theme?color=0a805d)
+
 Inspired by https://usgraphics.com/
 
 ## Marketplace
