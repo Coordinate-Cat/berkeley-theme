@@ -2,7 +2,7 @@
   "name": "berkeley-theme",
   "displayName": "Berkeley Theme",
   "description": "A clean and modern light theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ocat",
   "repository": {
     "type": "git",
