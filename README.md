@@ -2,6 +2,10 @@
 
 Inspired by https://usgraphics.com/
 
+## Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ocat.berkeley-theme
+
 ## Screenshots
 
 ![preference](https://raw.githubusercontent.com/Coordinate-Cat/berkeley-theme/refs/heads/main/images/screenshot/preference1.png)
@@ -28,6 +32,9 @@ settings.json
 ## Contributing
 
 Contributions are welcome.
+
+admin dashboard
+https://marketplace.visualstudio.com/manage/publishers/ocat
 
 ## Publish
 
