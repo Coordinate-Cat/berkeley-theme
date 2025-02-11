@@ -29,7 +29,11 @@ settings.json
 
 Contributions are welcome.
 
+## Publish
+
 ```bash
+commit...
+
 vsce publish patch
 vsce publish minor
 vsce publish major
