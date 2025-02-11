@@ -42,7 +42,3 @@ vsce publish major
 ## License
 
 MIT License
-
-```
-
-```
