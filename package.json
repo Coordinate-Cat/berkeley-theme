@@ -4,6 +4,11 @@
   "description": "A clean and modern light theme for Visual Studio Code.",
   "version": "1.0.0",
   "publisher": "ocat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Coordinate-Cat/berkeley-theme.git"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
   },
