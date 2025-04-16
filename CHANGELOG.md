@@ -2,6 +2,12 @@
 
 All notable changes to the "berkeley-theme" extension will be documented in this file.
 
+## [1.0.6] - 2025-04-16
+
+### Fixed
+
+- icons in the marketplace
+
 ## [1.0.5] - 2025-04-16
 
 ### Added
