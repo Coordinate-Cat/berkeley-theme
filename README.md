@@ -10,13 +10,8 @@ https://marketplace.visualstudio.com/items?itemName=ocat.berkeley-theme
 
 ## Screenshots
 
-![preference](https://raw.githubusercontent.com/Coordinate-Cat/berkeley-theme/refs/heads/main/images/screenshot/preference1.png)
-
-![preference2](https://raw.githubusercontent.com/Coordinate-Cat/berkeley-theme/refs/heads/main/images/screenshot/preference2.png)
-
-![preference3](https://raw.githubusercontent.com/Coordinate-Cat/berkeley-theme/refs/heads/main/images/screenshot/preference3.png)
-
-![preference4](https://raw.githubusercontent.com/Coordinate-Cat/berkeley-theme/refs/heads/main/images/screenshot/preference4.png)
+![Screenshot1](./images/screenshot/preference1.png)
+![Screenshot2](./images/screenshot/preference2.png)
 
 ## Recommend Font
 
