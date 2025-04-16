@@ -43,6 +43,32 @@ vsce publish minor
 vsce publish major
 ```
 
+## Change Explorer Font to Berkeley Mono)
+
+- Custom CSS and JS for Visual Studio Code
+  - https://marketplace.visualstudio.com/items/?itemName=be5invis.vscode-custom-css
+
+`~/.vscode/tree.css`
+
+```css
+.sidebar .explorer-viewlet .label-name,
+.editor .title .label-name {
+  font-family: "Berkeley Mono" !important;
+  font-size: 12px !important;
+}
+
+.split-view-view {
+  font-family: "Berkeley Mono" !important;
+  font-size: 12px !important;
+}
+```
+
+Command + Shift + P
+
+```text
+> Enable Custom CSS and JS
+```
+
 ## License
 
 MIT License
